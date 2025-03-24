@@ -1,7 +1,6 @@
 # bug_wiki
 新一代漏洞文库，包含各平台威胁情报告警+有无poc功能+复现文章功能，相比传统的知识文库，能够第一时间找到利用工具和复现教程
 
-
 国内平台：绿盟,CNVD,CNNVD,oscs1024，红后(天际友盟)
 国外：NVD,Tenable
 
@@ -21,5 +20,17 @@
 后续还得写一个后台，为每条漏洞信息添加是否有poc以及复现文章（防止出现假的poc）
 
 
-
 至于为什么不直接使用github监控（避免出现假poc无法复现）
+
+2025-03-24:
+很多人都在期待这个项目开源吧？
+
+但是实际上不太可能开源了
+
+目前使用python+flask+sqllittle写了一个简易版本的平台搭建到公网供搭建阅览最新漏洞（未添加有无poc功能）
+
+![1742810218488](https://github.com/user-attachments/assets/46712498-0a58-4f39-bf11-fe789dad7015)
+
+平台地址:http://vul.hackersafe.cn/
+
+取消了：绿盟,CNVD,CNNVD，红后(天际友盟)，NVD，只展示：OSCS1024漏洞库，安天(antiycloud)，Tenable (Nessus)，Msrc(微软安全响应中心)这四个平台。
