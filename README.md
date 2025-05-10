@@ -4,7 +4,8 @@
 
 您可以在如下地址预览实时的漏洞情报：http://vul.hackersafe.cn
 
-![1742810218488](https://github.com/user-attachments/assets/46712498-0a58-4f39-bf11-fe789dad7015)
+![图片](https://github.com/user-attachments/assets/7eddf641-1393-43a3-8c97-bb7a4450f8f0)
+
 
 使用python+flask+sqllittle写的一个简易版本的平台搭建到公网供阅览各平台的最新漏洞情报
 
