@@ -3,7 +3,8 @@
     <p align="center">此项目是爬取多个漏洞平台构建漏洞预警，并将漏洞信息在平台进行展示</p>
         <p align="center">
     <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.10-green.svg"></a>
-    <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+    <a target="_blank" href="stars" title="stars"><img src="https://img.shields.io/github/stars/BugFor-Pings/bug_wiki.svg"></a>
+    <a target="_blank" href="forks" title="forks"><img src="https://img.shields.io/github/forks/BugFor-Pings/bug_wiki.svg"></a>                                                 
 </p>
 
 
