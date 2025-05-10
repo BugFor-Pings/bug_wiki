@@ -1,4 +1,11 @@
-# 漏洞情报分享
+<p align="center">
+    <h1 align="center" >每日最新漏洞情报分享平台</h1>
+    <p align="center">此项目是爬取多个漏洞平台构建漏洞预警，并将漏洞信息在平台进行展示</p>
+        <p align="center">
+    <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.10-green.svg"></a>
+    <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+</p>
+
 
 欢迎来到 Bugfor-Pings的漏洞情报分享仓库。本仓库是提供每日最新的漏洞情报，帮助安全研究人员和系统管理员保护他们的系统免受潜在的威胁。
 
